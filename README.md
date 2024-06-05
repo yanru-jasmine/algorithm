@@ -1,5 +1,6 @@
 # algorithm
 
+39期打卡名单：https://docs.qq.com/sheet/DUHFIS09Fanh4THB0?tab=BB08J2
 
 1# Two Sum('https://leetcode.cn/problems/two-sum/description/')
 哈希表
